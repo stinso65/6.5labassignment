@@ -1,1 +1,16 @@
 /* Add screen styles below */
+body {
+    background: #353535;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 {
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 100px;
+}
+.gallery {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 27%;
+}
